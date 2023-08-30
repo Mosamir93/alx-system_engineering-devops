@@ -17,3 +17,5 @@
 #8-firstdelete Deletes the file betty in /tmp/my_first_directory
 
 #9-firstdirdeletion Deletes the directory my_first_directory
+
+#10-back changes the working directory to the previous one
