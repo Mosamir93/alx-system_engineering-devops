@@ -15,3 +15,5 @@
 #7-everybody adds execution permission to the owner, the group owner and the other users, to the file hello
 
 #8-James_Bond allows all permissions to other users only
+
+#9-John_Doe sets the mode of the file hello
