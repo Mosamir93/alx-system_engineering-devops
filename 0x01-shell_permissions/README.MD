@@ -17,3 +17,5 @@
 #8-James_Bond allows all permissions to other users only
 
 #9-John_Doe sets the mode of the file hello
+
+#10-mirror_permissions sets the mode of the file hello the same as olleh’s mode
