@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "find . -mindepth 1 -empty -name -ls /n"
+find . -mindepth 1 -empty -name -ls
