@@ -1,2 +1,2 @@
 #!/bin/bash
-find -typef | rm *.js
+ls -lr | f -nd -typef | rm *.js
