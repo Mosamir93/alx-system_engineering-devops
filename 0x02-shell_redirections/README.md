@@ -21,3 +21,5 @@
 #10-no_more_js eletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 
 #11-directories counts the number of directories and sub-directories in the current directory The current and parent directories should not be taken into account Hidden directories should be counted
+
+#12-newest_files Create a script that displays the 10 newest files in the current directory
