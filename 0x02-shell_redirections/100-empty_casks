@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -depth -empty -name -ls
+find . -empty -name -ls
