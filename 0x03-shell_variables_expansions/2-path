@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'export PATH="/action:$PATH"' >> /etc/profile
+echo 'export PATH="/action:$PATH"' >> /etc/profile.d
