@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'export PATH="/action:$PATH"' >> /etc/enviroment
+export PATH="$PATH:/action"
