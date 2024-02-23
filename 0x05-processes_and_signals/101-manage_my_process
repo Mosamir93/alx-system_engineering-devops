@@ -6,7 +6,6 @@ start()
 {
     ./manage_my_process &
     echo $! > "$file"
-    
 }
 
 stop()
@@ -20,7 +19,6 @@ restart()
 {
     stop
     start
-    
 }
 
 case "$1" in
